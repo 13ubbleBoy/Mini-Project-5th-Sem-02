@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078487510487",
+    "project_id": "wvideos-1520f",
+    "storage_bucket": "wvideos-1520f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078487510487:android:c00d18b1f875d9c2692f92",
+        "android_client_info": {
+          "package_name": "com.example.wvideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078487510487-736k268383sg6872v8bg8fa5q63a3abn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbVG1oWtI-3U5VukrNghBp04GlGmvQcRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078487510487-736k268383sg6872v8bg8fa5q63a3abn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
